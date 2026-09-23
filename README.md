@@ -63,17 +63,21 @@ B1-1/
 
 ## 배포 URL
 
-GitHub Pages 배포 후 실제 주소로 바꿔 주세요.
-
-`[GitHub Pages 배포 URL을 여기에 입력]`
+https://hay-dev2024.github.io/b1-1-portfolio/
 
 ## 스크린샷
 
-GitHub Pages 배포 및 검증 후 아래 스크린샷을 추가해 주세요.
+### Desktop
 
-- Desktop 화면
-- Mobile 화면
-- Dark Mode 화면
+![Desktop](images/screenshots/desktop.png)
+
+### Mobile
+
+![Mobile](images/screenshots/mobile.png)
+
+### Dark Mode
+
+![Dark Mode](images/screenshots/dark-mode.png)
 
 ## 필수 구현 체크리스트
 
@@ -120,10 +124,11 @@ GitHub Pages 배포 및 검증 후 아래 스크린샷을 추가해 주세요.
 
 ### 사용자 확인 및 배포
 
-- [ ] Desktop / Tablet / Mobile 브라우저 화면 확인
-- [ ] 실제 GitHub API 로딩·성공·오류·재시도·빈 상태 확인
-- [ ] Contact 폼의 빈 값·이메일 형식·정상 제출 확인
-- [ ] 다크 모드 새로고침 유지 확인
-- [ ] GitHub에 push
-- [ ] GitHub Pages 활성화 및 README 배포 URL 반영
-- [ ] 배포 환경 재검증 및 Desktop / Mobile / Dark Mode 스크린샷 추가
+- [x] Desktop / Tablet / Mobile 브라우저 화면 확인
+- [x] 실제 GitHub API 로딩·성공 확인
+- [ ] 실제 GitHub API 오류·재시도·빈 상태 확인
+- [x] Contact 폼의 빈 값·이메일 형식·정상 제출 확인
+- [x] 다크 모드 새로고침 유지 확인
+- [x] GitHub에 push
+- [x] GitHub Pages 활성화 및 README 배포 URL 반영
+- [x] 배포 환경 재검증 및 Desktop / Mobile / Dark Mode 스크린샷 추가
