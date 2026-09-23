@@ -79,6 +79,7 @@ h3 { margin-top: 0; }
 .project-meta { margin: 0 0 var(--spacing-small); color: var(--color-muted); font-size: 0.9rem; }
 .project-link { color: var(--color-primary); font-weight: 700; }
 .retry-button { margin-top: var(--spacing-medium); }
+.retry-button[hidden] { display: none; }
 
 .contact-form { max-width: 680px; }
 .form-field { margin-bottom: var(--spacing-medium); }
